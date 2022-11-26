@@ -6,7 +6,7 @@
 
 ![Captura de Tela 2022-11-26 às 15 51 19](https://user-images.githubusercontent.com/60937919/204105659-70d832b8-010b-4d71-98bd-c7be26fb2841.png)
 
-Um projeto funcional para tentar alertar sobre as pesquisas e notícias falsas. O objetivo desse site é alertar as pessoas sobre onde elas buscam e se as notícias que elas leem. Se são verdadeiras ou estao em lugares confiaveis. Nesse site está sendo usado mecânismo de pesquisa confiavel, mas mesmo assim existem validações para alertar e previnir Fake News.
+Um projeto funcional para tentar alertar sobre as pesquisas e notícias falsas. O objetivo desse site é alertar as pessoas sobre onde elas buscam e se as notícias que elas leem e propagam são verdadeiras ou estao em lugares confiaveis. <br /> Nesse site estão sendo usados mecânismos de pesquisa confiaveis, mas mesmo assim existem validações para alertar e previnir Fake News.
 
 Estilizado com <a href="https://tailwindcss.com/">Tailwind CSS</a>, totalmente resposivo e programamdo em uma linguagem em alta no mundo, Next.Js <a herf="https://nextjs.org/">Next.js </a> uma framework de React.Js. 
 
@@ -19,14 +19,11 @@ Por favor não faça SPAM de pesquisas.
 
 ### Construido com:
 
-
 * [Next.js](https://nextjs.org/)
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Programmable Search Engine](https://programmablesearchengine.google.com/about/)
 * [Yarn](https://yarnpkg.com/)
 
-
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 <!-- Contribuições -->
