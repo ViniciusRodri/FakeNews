@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Header from '../components/Header';
-import HeaderOptions from '../components/HeaderOptions';
-import HeaderOption from '../components/HeaderOption';
+import { API_KEY, CONTEXT_KEY } from '../hooks/index';
+
 import Response from '../Response';
 import { useRouter } from 'next/router';
 import SearchResults from '../components/SearchResults';
@@ -27,10 +27,7 @@ function Fail({ results }) {
 export default Fail;
 
 export async function getServerSideProps(context) {
-  const API_KEY = process.env.API_KEY;
-  const CONTEXT_KEY = process.env.CONTEXT_KEY;
-
-  const useDummyData = true; //true for devlopment (mock results)
+  const useDummyData = false;
   const startIndex = context.query.start || '0';
 
   const data = useDummyData

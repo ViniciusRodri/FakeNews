@@ -17,8 +17,9 @@ function SearchResults({ results }) {
                 className="
                grid gap-2 text-sml font-OpenSans text-[#92989F]"
               >
-                <p className="bg-red-700 p-2 rounded text-white text-sm">
-                  Atenção, leia com atenção essa notícia e tenha certeza que é
+                <p className="flex gap-3 bg-red-700 p-2 rounded text-white text-sm">
+                  <img src="/atencao.png" width="40px" height="20px" />
+                  Atenção!!! Leia com cuidado essa notícia e tenha certeza que é
                   relacionada a sua duvida, se não, pesquise novamente de outra
                   forma!
                 </p>

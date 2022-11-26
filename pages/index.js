@@ -11,7 +11,6 @@ import { useRouter } from 'next/router';
 export default function Home() {
   const router = useRouter();
   const searchInputRef = useRef(null);
-  console.log(searchInputRef);
   const search = (e) => {
     e.preventDefault();
     const term = searchInputRef.current.value;
