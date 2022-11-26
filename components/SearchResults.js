@@ -1,6 +1,6 @@
 import PaginationButtons from './PaginationButtons';
 import Footer from './Footer';
-function SearchResults({ results }) {
+function SearchResults({ results, isActive }) {
   return (
     <div>
       <div className="mx-auto w-full px-3 sm:pl-[5%] md:pl-[14%] lg:pl-52 font-OpenSans">
@@ -17,12 +17,14 @@ function SearchResults({ results }) {
                 className="
                grid gap-2 text-sml font-OpenSans text-[#92989F]"
               >
-                <p className="flex gap-3 bg-red-700 p-2 rounded text-white text-sm">
-                  <img src="/atencao.png" width="40px" height="20px" />
-                  Atenção!!! Leia com cuidado essa notícia e tenha certeza que é
-                  relacionada a sua duvida, se não, pesquise novamente de outra
-                  forma!
-                </p>
+                {!isActive && (
+                  <p className="flex gap-3 bg-red-700 p-2 rounded text-white text-sm">
+                    <img src="/atencao.png" width="40px" height="20px" />
+                    Atenção!!! Leia com cuidado essa notícia e tenha certeza que
+                    é relacionada a sua duvida, se não, pesquise novamente de
+                    outra forma!
+                  </p>
+                )}
                 {result.formattedUrl}
               </a>
               <a href={result.link}>

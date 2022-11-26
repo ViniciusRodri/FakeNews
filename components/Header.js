@@ -13,15 +13,13 @@ function Header() {
     e.preventDefault();
     const term = searchInputRef.current.value;
 
-    if (!term) {
-      router.push(`/search?term=${term}`);
-    } else {
-      router.push(`/fail`);
-    }
+    if (!term) return;
+
+    router.push(`/search?term=${term}`);
   };
 
   return (
-    <header className="sticky top-0 bg-[#1F2123]x">
+    <header className="sticky top-0 bg-[#1F2123]">
       <div className="flex w-full p-6 items-center">
         <Image
           src="/fake.png"

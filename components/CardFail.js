@@ -7,8 +7,8 @@ function CardFail() {
           <h2 className=" bold">
             Cuidado! O que você pesquisou pode ser uma notícia falsa. Tenha
             certeza de onde ouviu ou viu e não propague se não tiver certeza da
-            veravidade do assunto. Logo abaixo temos alguns sites relacionado
-            com o que você pesquisou!
+            veracidade do assunto. Logo abaixo temos alguns sites relacionados
+            com a sua pesquisa!
           </h2>
         </div>
       </div>
