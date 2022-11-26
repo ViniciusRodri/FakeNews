@@ -1,20 +1,23 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- SOBRE O PROJETO -->
+## Sobre o projeto
 
-![enter image description here](https://i.imgur.com/rZGgsqr.png)
-A  functional replica of Google's search page, you can use it for searches. Styled with <a href="https://tailwindcss.com/">Tailwind CSS</a> to  Rapidly build and look as close as possible to current google search page, the search results are pulled using Googles <a href="https://developers.google.com/custom-search">Programmable Search Engine</a> and it was build using <a herf="https://nextjs.org/">Next.js </a>the react framework. 
+![Captura de Tela 2022-11-26 às 15 51 19](https://user-images.githubusercontent.com/60937919/204105659-70d832b8-010b-4d71-98bd-c7be26fb2841.png)
 
-Project is live here https://google-clone-p8mn37r8a-cosmicwanderer7.vercel.app/
+Um projeto funcional para tentar alertar sobre as pesquisas e notícias falsas. O objetivo desse site é alertar as pessoas sobre onde elas buscam e se as notícias que elas leem. Se são verdadeiras ou estao em lugares confiaveis. Nesse site está sendo usado mecânismo de pesquisa confiavel, mas mesmo assim existem validações para alertar e previnir Fake News.
 
-Please do not spam searches.
+Estilizado com <a href="https://tailwindcss.com/">Tailwind CSS</a>, totalmente resposivo e programamdo em uma linguagem em alta no mundo, Next.Js <a herf="https://nextjs.org/">Next.js </a> uma framework de React.Js. 
+
+Site do projeto aqui: https://google-clone-p8mn37r8a-cosmicwanderer7.vercel.app/
+
+Por favor não faça SPAM de pesquisas.
 
 
 
 
-### Built With
+### Construido com:
 
 
 * [Next.js](https://nextjs.org/)
@@ -27,12 +30,12 @@ Please do not spam searches.
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Comece aqui -->
+## Comece Aqui
 
 
 
-### Prerequisites
+### Pré-Requisitos (Em inglês)
 
 This are things you need to use the web app and how to install them.
 * yarn
@@ -73,46 +76,19 @@ This are things you need to use the web app and how to install them.
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
+<!-- Contribuições -->
+## Contribuições
 
+Esse projeto Open Source, **fique á vontade para contribuir**. De preferência aos frameworks e bibliotecas usadas já no projeto. .
 
+Se você tem alguma contribuição que melhore o projeto, por favor fork o repo e mande um a pull request. 
 
+Não esqueça de dar um 'Star' no projeto! Obrigado!
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. 
-
-Don't forget to give the project a star! Thanks again!
+Como fazer uma contribuição (Em Inglês):
 
 1. Fork the Project
 2. Create your Feature Branch
 3. Commit your Changes 
 5. Push to the Branch 
 6. Open a Pull Request
-
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
-
-
-
-
-
-<!-- CONTACT -->
-## Contact
-  yewaleprithvi2003@gmail.com Gmail <br>
- [@PrithviYewale](https://twitter.com/PrithviYewale) Twitter <br>
- [@cosmic.wanderer._](https://www.instagram.com/cosmic.wanderer._/) Instagram <br>
- 
-                    
-
-         
-
-Project Link: [https://github.com/cosmicwanderer7/google-clone](https://github.com/cosmicwanderer7/google-clone)
-
-<p align="right">(<a href="#about-the-project">back to top</a>)</p>
-
-
-
-
