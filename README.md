@@ -10,7 +10,7 @@ Um projeto funcional para tentar alertar sobre as pesquisas e notícias falsas. 
 
 Estilizado com <a href="https://tailwindcss.com/">Tailwind CSS</a>, totalmente resposivo e programamdo em uma linguagem em alta no mundo, Next.Js <a herf="https://nextjs.org/">Next.js </a> uma framework de React.Js. 
 
-Site do projeto aqui: https://google-clone-p8mn37r8a-cosmicwanderer7.vercel.app/
+Site do projeto aqui: https://fake-news-chi.vercel.app/
 
 Por favor não faça SPAM de pesquisas.
 
