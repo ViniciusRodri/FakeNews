@@ -6,18 +6,18 @@
 
 ![Captura de Tela 2022-11-26 às 15 51 19](https://user-images.githubusercontent.com/60937919/204105659-70d832b8-010b-4d71-98bd-c7be26fb2841.png)
 
-Um projeto funcional para tentar alertar sobre as pesquisas e notícias falsas. O objetivo desse site é alertar as pessoas sobre onde elas buscam e se as notícias que elas leem e propagam são verdadeiras ou estao em lugares confiaveis. <br /> Nesse site estão sendo usados mecânismos de pesquisa confiaveis, mas mesmo assim existem validações para alertar e previnir Fake News.
+A functional project to try to raise awareness about fake searches and news. The purpose of this site is to alert people about where they are looking and whether the news they read and propagate is true or in reliable places. <br /> On this site, reliable research mechanisms are being used, but even so there are validations to alert and prevent Fake News.
 
-Estilizado com <a href="https://tailwindcss.com/">Tailwind CSS</a>, totalmente resposivo e programamdo em uma linguagem em alta no mundo, Next.Js <a herf="https://nextjs.org/">Next.js </a> uma framework de React.Js. 
+Stylized <a href="https://tailwindcss.com/">Tailwind CSS</a>, fully responsive and programmed in a language that is popular in the world, Next.Js <a herf="https://nextjs.org/">Next.js </a> the framework of React.Js. 
 
 Site do projeto aqui: https://fake-news-chi.vercel.app/
 
-Por favor não faça SPAM de pesquisas.
+Please do not SPAM surveys.
 
 
 
 
-### Construido com:
+### Built whith:
 
 * [Next.js](https://nextjs.org/)
 * [Tailwind CSS](https://tailwindcss.com/)
@@ -26,16 +26,16 @@ Por favor não faça SPAM de pesquisas.
 
 
 
-<!-- Contribuições -->
-## Contribuições
+<!-- Contributions -->
+## Contributions
 
-Esse projeto Open Source, **fique á vontade para contribuir**. De preferência aos frameworks e bibliotecas usadas já no projeto. .
+This Open Source project, **feel free to contribute**. Preferably to frameworks and libraries already used in the project. 🇧🇷
 
-Se você tem alguma contribuição que melhore o projeto, por favor fork o repo e mande um a pull request. 
+If you have any contributions that improve the project, please fork the repo and send a pull request.
 
-Não esqueça de dar um 'Star' no projeto! Obrigado!
+Don't forget to give the project a 'Star'! Thanks!
 
-Como fazer uma contribuição (Em Inglês):
+How to make a contribution (in English):
 
 1. Fork the Project
 2. Create your Feature Branch
